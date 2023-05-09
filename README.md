@@ -22,9 +22,9 @@ Model Evaluation
 Results and Conclusion
 
 # Documents Attached
-A Juypter Notebook 
+Python Juypter notebook ipynb file containing the programming 
 
-PPT in pdf format
+Power Point presentation in PDF Format
 
 
 
